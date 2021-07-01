@@ -14,11 +14,6 @@
     🟨  &nbsp;(Fun?) fact: I used to work in automation and manual testing.
 </ul>
 
-### Languages & Tools
-
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp; <img src="https://img.icons8.com/officel/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/redux.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/>
-
-
 ### Connect With Me
 
 <p align="left">
@@ -26,6 +21,14 @@
  <a href="https://linkedin.com/in/arslaninc" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
  <a href="https://arslaninfinite.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png"/></a>
 </p>
+
+### Languages & Tools
+
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp; <img src="https://img.icons8.com/officel/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/redux.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/>
+### Statistics 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslaninfinite&theme=gotham) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslaninfinite&show_icons=true&theme=gotham)
+
 
 <!--
 **ArslanInfinite/ArslanInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
