@@ -1,15 +1,17 @@
 <h2 align='center'>Hey, I'm Arslan.</h2>
 
+<h3 align='center'>Full Stack Software Developer </h3>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=ArslanInfinite.ArslanInfinite)
 [![Github](https://img.shields.io/github/followers/ArslanInfinite?label=Follow&style=social)](https://github.com/ArslanInfinite)
 
 ### Introduction
 <ul align="left">
-    🟥 I’m currently working on a few different vanilla JS projects to expand my understanding of the language. <br>
-    🟦 I’m also enhancing my skillset for React. <br>
-    🟪 I’m looking for help with learning Node. <br>
-    🟩 I’m looking to collaborate on anything that can strengthen my foundational knowledge of the programming world. <br>
-    🟨 (Fun?) fact: I used to work in automation and manual testing.
+    🟥 &nbsp; I’m currently working on a few different vanilla JS projects to expand my understanding of the language. <br><br>
+    🟦 &nbsp; I’m also enhancing my skillset for React. <br><br>
+    🟪 &nbsp; I’m looking for help with learning Node. <br><br>
+    🟩 &nbsp; I’m looking to collaborate on anything that can strengthen my foundational knowledge of the programming world. <br><br>
+    🟨  &nbsp;(Fun?) fact: I used to work in automation and manual testing.
 </ul>
 
 ### Languages & Tools
